@@ -2,9 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 6 hours
     - cron: "0 */6 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -32,7 +30,7 @@ jobs:
         run: |
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Generate snake gif and svg"
-          git push -f
+          git push -f https://{{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/ntuananhdevs/ntuananhdevs.git
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
@@ -41,4 +39,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
