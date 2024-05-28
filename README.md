@@ -17,7 +17,8 @@
             </a>
         </td>
         <td width="50%" align="center">
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ntuananhdevs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />        </td>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ntuananhdevs&count_private=true&show_icons=true&line_height=25" />
+        </td>
     </tr>
 </table>
 
