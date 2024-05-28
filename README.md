@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm a Data Engineer & Backend Developer</h3>
 <br/>
 
-<table style=""width="100%", align="center", boder="none">
+<table style=""width="100%", align="center", boder="">
     <tr>
         <td width="50%">
             🔭 I’m currently working on **a Perfect Guys**<br/>
@@ -17,8 +17,7 @@
             </a>
         </td>
         <td width="50%" align="center">
-            <img width="390" src="https://github-readme-stats.vercel.app/api?username=ntuananhdevs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="GitHub Readme Stats" />
-        </td>
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ntuananhdevs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />        </td>
     </tr>
 </table>
 
