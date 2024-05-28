@@ -1,4 +1,4 @@
-<h3 align="center">I am a Data Engineer & Backend Developer</h3>
+<h3 align="center">Hi, I'm a Data Engineer & Backend Developer</h3>
 <br/>
 
 <table style=""width="100%", align="center", boder="none">
