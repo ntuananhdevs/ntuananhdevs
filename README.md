@@ -5,6 +5,5 @@
 
 - :globe_with_meridians: Welcome to [ntuananh](ntuananhdevs.github.io/ntuananhdevs)
 - :email: Or contact me with [email](mailto:anhndt25@gmail.com)
-- --hehe
 
   <img src="svg/tunanh.svg" width="1200"/>
