@@ -7,6 +7,4 @@
 - :email: Or contact me with [email](mailto:anhndt25@gmail.com)
 - --hehe
 
-<a href="#" target="_blank">
-  <img src="tunanh.svg" width="1200" alt="Click to see the source" />
-</a>
+  <img src="tunanh.svg" width="1200"/>
