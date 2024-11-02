@@ -51,7 +51,7 @@
           top: 50%;
           left: 80%;
           transform: translate(-50%, -50%) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
-                }
+        }
         .greeting {
           overflow: hidden;
           font-weight: bold;
@@ -64,16 +64,38 @@
           font-family: 'JetBrains Mono', monospace;
           color: azure;
         }
+				.skills {
+          display: inline-flex;
+          margin: 30px 0 0 100px;
+          gap: 7px;
+        }
+        .skills_icon>img {
+          width: 80px;
+          height: 80px;
+        }
 
-				
+        .only_nodejs_skill {
+          margin-left: 80px;
+        }
+        .skills_icon_node>img {
+          width: 340px;
+        }
 			</style>
 
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi There!<br/>I'm I am Tuan Anh from Earth
-        </div>
+Hi There!<br/>I'm I am Tuan Anh from Earth        
+		</div>
         <div class="skills">
+
+
+ 
+
+         
+        </div>
+
+			</div>
       
 		</div>
 	</foreignObject>
