@@ -7,4 +7,4 @@
 - :email: Or contact me with [email](mailto:anhndt25@gmail.com)
 - --hehe
 
-  <img src="tunanh.svg" width="1200"/>
+  <img src="svg/tunanh.svg" width="1200"/>
